@@ -1,0 +1,21 @@
+{
+  "name": "smart-parking-system-for-smart-cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firebase-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitt08-l/smart-parking-system-for-smart-cities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rohitt08-l/smart-parking-system-for-smart-cities/issues"
+  },
+  "homepage": "https://github.com/rohitt08-l/smart-parking-system-for-smart-cities#readme"
+}
